@@ -3,7 +3,7 @@ A Python programming assignment covering While Loops, For Loops, Range Function,
 
 #Overview
 
-This repository contains Python Assignment 3, focusing on loops, control statements, and user-defined functions. The assignment demonstrates the practical application of Python programming concepts through simple programs.
+This repository contains Python Assignment, focusing on loops, control statements, and user-defined functions. The assignment demonstrates the practical application of Python programming concepts through simple programs.
 
 #Topics Covered
 
@@ -51,7 +51,7 @@ Uses function parameters and return statements.
 
 Python 3
 
-Google Colab / Jupyter Notebook
+Google Colab
 
 #Learning Objectives
 
